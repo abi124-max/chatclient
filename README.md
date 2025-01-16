@@ -1,12 +1,11 @@
 # chatclient
 its about network access
 **company**:CODTECH IT SOLUTION PVT.LTD
-**NAME**:
-**ID**:
-**INTERN ID**:
-**DOMAIN**:
-**BATCH DURATION**:
-**MENTOR NAME**:
+**NAME**:H.Abirami
+**INTERN ID**:CT08GNX
+**DOMAIN**:JAVA programming
+**BATCH DURATION**:25-12-24 to 25-01-25
+**MENTOR NAME**:NEELA SANTHOSH
 # ENTER THE DESCRIPTION  OF TASK PERFORMED WITHIN 500 WORDS
 Server: The ChatServer class creates a server socket listening on port 12345. When a client connects, a new ServerThread is created to handle the client's communication. The ServerThread reads messages from the client and echoes them back.
 Client: The ChatClient class creates a socket to connect to the server. It uses PrintWriter to send messages to the server and a separate ReadThread to read and print messages from the server.
